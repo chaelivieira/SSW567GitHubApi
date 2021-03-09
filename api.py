@@ -7,7 +7,6 @@ def repoApi(id):
     obj = response1.json()
     #print(response1)
     if(response1.status_code == 200):
-        print("List of Repos for user {}". format(id))
         list = []
         output = []
         for x in obj:
@@ -24,12 +23,22 @@ def repoApi(id):
             else:
                 s = "Repo {} is empty".format(y)
                 output.append(s)
+                print(s)
                 print(response2.json())
-        print output
+        print("##########OUTPUT##########")
+        print (output)
         return output
     else:
         print(response1.json())
+        return response1.json()
 def checkRepo(id, repo):
     response = requests.get("https://api.github.com/repos/{}/{}/commits".format(id,repo))
-    return len(response.json)
+    if(response.status_code == 200):
+        return len(response.json())
+    else:
+        return response.json()
+
+if __name__ == '__main__':
  
+  #repoApi("chaelivieira")
+  print(checkRepo("chaelivieira", "lab3"))

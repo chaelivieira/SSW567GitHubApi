@@ -1,0 +1,16 @@
+Deliverable 1:
+
+Repo: https://github.com/chaelivieira/SSW567GitHubApi
+
+
+Deliverable 2:
+Write a description of what you thought about when you were designing the code. 
+What did *you* think was important to do to make it easy to test the program. 
+What are some of the challenges that you faced when testing this assignment.
+
+
+While I was writing my code I thought that the tester would want to be able to test the api for an exisitng user but invalid repo separately.
+I created a sceondary function for the tester to be able to test this easily. 
+I also included a lot of print statements so the tester can easily see the reponse status of the request.
+Lastly, I at frist wanted to just print the output as the code ran, but I realized I must return the output so that they tester can use selfAssert.
+A challenge I faced was the limit of 60 requests per hour. 
