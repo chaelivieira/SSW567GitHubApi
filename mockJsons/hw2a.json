@@ -1,0 +1,951 @@
+[
+    {
+      "sha": "cfcd235f07eed8b8b137d3ca82e6e741b5a080eb",
+      "node_id": "MDY6Q29tbWl0MzM5NTI4MDc5OmNmY2QyMzVmMDdlZWQ4YjhiMTM3ZDNjYTgyZTZlNzQxYjVhMDgwZWI=",
+      "commit": {
+        "author": {
+          "name": "Chaeli Vieira",
+          "email": "cvieira@stevens.edu",
+          "date": "2021-03-16T17:49:15Z"
+        },
+        "committer": {
+          "name": "Chaeli Vieira",
+          "email": "cvieira@stevens.edu",
+          "date": "2021-03-16T17:49:15Z"
+        },
+        "message": "hw 5",
+        "tree": {
+          "sha": "8bbe020351af1bc83ec316c50107c564e3df7426",
+          "url": "https://api.github.com/repos/chaelivieira/SSW567HW2a/git/trees/8bbe020351af1bc83ec316c50107c564e3df7426"
+        },
+        "url": "https://api.github.com/repos/chaelivieira/SSW567HW2a/git/commits/cfcd235f07eed8b8b137d3ca82e6e741b5a080eb",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null
+        }
+      },
+      "url": "https://api.github.com/repos/chaelivieira/SSW567HW2a/commits/cfcd235f07eed8b8b137d3ca82e6e741b5a080eb",
+      "html_url": "https://github.com/chaelivieira/SSW567HW2a/commit/cfcd235f07eed8b8b137d3ca82e6e741b5a080eb",
+      "comments_url": "https://api.github.com/repos/chaelivieira/SSW567HW2a/commits/cfcd235f07eed8b8b137d3ca82e6e741b5a080eb/comments",
+      "author": {
+        "login": "chaelivieira",
+        "id": 32397817,
+        "node_id": "MDQ6VXNlcjMyMzk3ODE3",
+        "avatar_url": "https://avatars.githubusercontent.com/u/32397817?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/chaelivieira",
+        "html_url": "https://github.com/chaelivieira",
+        "followers_url": "https://api.github.com/users/chaelivieira/followers",
+        "following_url": "https://api.github.com/users/chaelivieira/following{/other_user}",
+        "gists_url": "https://api.github.com/users/chaelivieira/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/chaelivieira/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/chaelivieira/subscriptions",
+        "organizations_url": "https://api.github.com/users/chaelivieira/orgs",
+        "repos_url": "https://api.github.com/users/chaelivieira/repos",
+        "events_url": "https://api.github.com/users/chaelivieira/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/chaelivieira/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "chaelivieira",
+        "id": 32397817,
+        "node_id": "MDQ6VXNlcjMyMzk3ODE3",
+        "avatar_url": "https://avatars.githubusercontent.com/u/32397817?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/chaelivieira",
+        "html_url": "https://github.com/chaelivieira",
+        "followers_url": "https://api.github.com/users/chaelivieira/followers",
+        "following_url": "https://api.github.com/users/chaelivieira/following{/other_user}",
+        "gists_url": "https://api.github.com/users/chaelivieira/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/chaelivieira/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/chaelivieira/subscriptions",
+        "organizations_url": "https://api.github.com/users/chaelivieira/orgs",
+        "repos_url": "https://api.github.com/users/chaelivieira/repos",
+        "events_url": "https://api.github.com/users/chaelivieira/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/chaelivieira/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "973ab9e7c408a3b9a64f6d999f59fdc40f6b8ef4",
+          "url": "https://api.github.com/repos/chaelivieira/SSW567HW2a/commits/973ab9e7c408a3b9a64f6d999f59fdc40f6b8ef4",
+          "html_url": "https://github.com/chaelivieira/SSW567HW2a/commit/973ab9e7c408a3b9a64f6d999f59fdc40f6b8ef4"
+        }
+      ]
+    },
+    {
+      "sha": "973ab9e7c408a3b9a64f6d999f59fdc40f6b8ef4",
+      "node_id": "MDY6Q29tbWl0MzM5NTI4MDc5Ojk3M2FiOWU3YzQwOGEzYjlhNjRmNmQ5OTlmNTlmZGM0MGY2YjhlZjQ=",
+      "commit": {
+        "author": {
+          "name": "Chaeli Vieira",
+          "email": "cvieira@stevens.edu",
+          "date": "2021-02-16T23:14:15Z"
+        },
+        "committer": {
+          "name": "Chaeli Vieira",
+          "email": "cvieira@stevens.edu",
+          "date": "2021-02-16T23:14:15Z"
+        },
+        "message": "changes for python3",
+        "tree": {
+          "sha": "69e216be1c93f4a90037f40e9064107598027a00",
+          "url": "https://api.github.com/repos/chaelivieira/SSW567HW2a/git/trees/69e216be1c93f4a90037f40e9064107598027a00"
+        },
+        "url": "https://api.github.com/repos/chaelivieira/SSW567HW2a/git/commits/973ab9e7c408a3b9a64f6d999f59fdc40f6b8ef4",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null
+        }
+      },
+      "url": "https://api.github.com/repos/chaelivieira/SSW567HW2a/commits/973ab9e7c408a3b9a64f6d999f59fdc40f6b8ef4",
+      "html_url": "https://github.com/chaelivieira/SSW567HW2a/commit/973ab9e7c408a3b9a64f6d999f59fdc40f6b8ef4",
+      "comments_url": "https://api.github.com/repos/chaelivieira/SSW567HW2a/commits/973ab9e7c408a3b9a64f6d999f59fdc40f6b8ef4/comments",
+      "author": {
+        "login": "chaelivieira",
+        "id": 32397817,
+        "node_id": "MDQ6VXNlcjMyMzk3ODE3",
+        "avatar_url": "https://avatars.githubusercontent.com/u/32397817?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/chaelivieira",
+        "html_url": "https://github.com/chaelivieira",
+        "followers_url": "https://api.github.com/users/chaelivieira/followers",
+        "following_url": "https://api.github.com/users/chaelivieira/following{/other_user}",
+        "gists_url": "https://api.github.com/users/chaelivieira/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/chaelivieira/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/chaelivieira/subscriptions",
+        "organizations_url": "https://api.github.com/users/chaelivieira/orgs",
+        "repos_url": "https://api.github.com/users/chaelivieira/repos",
+        "events_url": "https://api.github.com/users/chaelivieira/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/chaelivieira/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "chaelivieira",
+        "id": 32397817,
+        "node_id": "MDQ6VXNlcjMyMzk3ODE3",
+        "avatar_url": "https://avatars.githubusercontent.com/u/32397817?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/chaelivieira",
+        "html_url": "https://github.com/chaelivieira",
+        "followers_url": "https://api.github.com/users/chaelivieira/followers",
+        "following_url": "https://api.github.com/users/chaelivieira/following{/other_user}",
+        "gists_url": "https://api.github.com/users/chaelivieira/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/chaelivieira/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/chaelivieira/subscriptions",
+        "organizations_url": "https://api.github.com/users/chaelivieira/orgs",
+        "repos_url": "https://api.github.com/users/chaelivieira/repos",
+        "events_url": "https://api.github.com/users/chaelivieira/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/chaelivieira/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "f7c6fd482baa7a59d7780dccb0467ec1f46502b6",
+          "url": "https://api.github.com/repos/chaelivieira/SSW567HW2a/commits/f7c6fd482baa7a59d7780dccb0467ec1f46502b6",
+          "html_url": "https://github.com/chaelivieira/SSW567HW2a/commit/f7c6fd482baa7a59d7780dccb0467ec1f46502b6"
+        }
+      ]
+    },
+    {
+      "sha": "f7c6fd482baa7a59d7780dccb0467ec1f46502b6",
+      "node_id": "MDY6Q29tbWl0MzM5NTI4MDc5OmY3YzZmZDQ4MmJhYTdhNTlkNzc4MGRjY2IwNDY3ZWMxZjQ2NTAyYjY=",
+      "commit": {
+        "author": {
+          "name": "Chaeli Vieira",
+          "email": "cvieira@stevens.edu",
+          "date": "2021-02-16T22:59:17Z"
+        },
+        "committer": {
+          "name": "Chaeli Vieira",
+          "email": "cvieira@stevens.edu",
+          "date": "2021-02-16T22:59:17Z"
+        },
+        "message": "Merge branch 'main' of https://github.com/chaelivieira/SSW567HW2a into main",
+        "tree": {
+          "sha": "e03144a2c48ba6f33e8c64423232e672d99c2db2",
+          "url": "https://api.github.com/repos/chaelivieira/SSW567HW2a/git/trees/e03144a2c48ba6f33e8c64423232e672d99c2db2"
+        },
+        "url": "https://api.github.com/repos/chaelivieira/SSW567HW2a/git/commits/f7c6fd482baa7a59d7780dccb0467ec1f46502b6",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null
+        }
+      },
+      "url": "https://api.github.com/repos/chaelivieira/SSW567HW2a/commits/f7c6fd482baa7a59d7780dccb0467ec1f46502b6",
+      "html_url": "https://github.com/chaelivieira/SSW567HW2a/commit/f7c6fd482baa7a59d7780dccb0467ec1f46502b6",
+      "comments_url": "https://api.github.com/repos/chaelivieira/SSW567HW2a/commits/f7c6fd482baa7a59d7780dccb0467ec1f46502b6/comments",
+      "author": {
+        "login": "chaelivieira",
+        "id": 32397817,
+        "node_id": "MDQ6VXNlcjMyMzk3ODE3",
+        "avatar_url": "https://avatars.githubusercontent.com/u/32397817?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/chaelivieira",
+        "html_url": "https://github.com/chaelivieira",
+        "followers_url": "https://api.github.com/users/chaelivieira/followers",
+        "following_url": "https://api.github.com/users/chaelivieira/following{/other_user}",
+        "gists_url": "https://api.github.com/users/chaelivieira/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/chaelivieira/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/chaelivieira/subscriptions",
+        "organizations_url": "https://api.github.com/users/chaelivieira/orgs",
+        "repos_url": "https://api.github.com/users/chaelivieira/repos",
+        "events_url": "https://api.github.com/users/chaelivieira/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/chaelivieira/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "chaelivieira",
+        "id": 32397817,
+        "node_id": "MDQ6VXNlcjMyMzk3ODE3",
+        "avatar_url": "https://avatars.githubusercontent.com/u/32397817?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/chaelivieira",
+        "html_url": "https://github.com/chaelivieira",
+        "followers_url": "https://api.github.com/users/chaelivieira/followers",
+        "following_url": "https://api.github.com/users/chaelivieira/following{/other_user}",
+        "gists_url": "https://api.github.com/users/chaelivieira/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/chaelivieira/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/chaelivieira/subscriptions",
+        "organizations_url": "https://api.github.com/users/chaelivieira/orgs",
+        "repos_url": "https://api.github.com/users/chaelivieira/repos",
+        "events_url": "https://api.github.com/users/chaelivieira/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/chaelivieira/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "8044e3a3ff30d1abb129e8ebf24307cb04defaef",
+          "url": "https://api.github.com/repos/chaelivieira/SSW567HW2a/commits/8044e3a3ff30d1abb129e8ebf24307cb04defaef",
+          "html_url": "https://github.com/chaelivieira/SSW567HW2a/commit/8044e3a3ff30d1abb129e8ebf24307cb04defaef"
+        },
+        {
+          "sha": "c0a84959a86da24e7dd1fa89bdc1b045a26677d2",
+          "url": "https://api.github.com/repos/chaelivieira/SSW567HW2a/commits/c0a84959a86da24e7dd1fa89bdc1b045a26677d2",
+          "html_url": "https://github.com/chaelivieira/SSW567HW2a/commit/c0a84959a86da24e7dd1fa89bdc1b045a26677d2"
+        }
+      ]
+    },
+    {
+      "sha": "8044e3a3ff30d1abb129e8ebf24307cb04defaef",
+      "node_id": "MDY6Q29tbWl0MzM5NTI4MDc5OjgwNDRlM2EzZmYzMGQxYWJiMTI5ZThlYmYyNDMwN2NiMDRkZWZhZWY=",
+      "commit": {
+        "author": {
+          "name": "Chaeli Vieira",
+          "email": "cvieira@stevens.edu",
+          "date": "2021-02-16T22:59:04Z"
+        },
+        "committer": {
+          "name": "Chaeli Vieira",
+          "email": "cvieira@stevens.edu",
+          "date": "2021-02-16T22:59:04Z"
+        },
+        "message": "added a bunch of things",
+        "tree": {
+          "sha": "de5e0e662d254440e923b37289fc7636ba7f5aaf",
+          "url": "https://api.github.com/repos/chaelivieira/SSW567HW2a/git/trees/de5e0e662d254440e923b37289fc7636ba7f5aaf"
+        },
+        "url": "https://api.github.com/repos/chaelivieira/SSW567HW2a/git/commits/8044e3a3ff30d1abb129e8ebf24307cb04defaef",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null
+        }
+      },
+      "url": "https://api.github.com/repos/chaelivieira/SSW567HW2a/commits/8044e3a3ff30d1abb129e8ebf24307cb04defaef",
+      "html_url": "https://github.com/chaelivieira/SSW567HW2a/commit/8044e3a3ff30d1abb129e8ebf24307cb04defaef",
+      "comments_url": "https://api.github.com/repos/chaelivieira/SSW567HW2a/commits/8044e3a3ff30d1abb129e8ebf24307cb04defaef/comments",
+      "author": {
+        "login": "chaelivieira",
+        "id": 32397817,
+        "node_id": "MDQ6VXNlcjMyMzk3ODE3",
+        "avatar_url": "https://avatars.githubusercontent.com/u/32397817?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/chaelivieira",
+        "html_url": "https://github.com/chaelivieira",
+        "followers_url": "https://api.github.com/users/chaelivieira/followers",
+        "following_url": "https://api.github.com/users/chaelivieira/following{/other_user}",
+        "gists_url": "https://api.github.com/users/chaelivieira/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/chaelivieira/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/chaelivieira/subscriptions",
+        "organizations_url": "https://api.github.com/users/chaelivieira/orgs",
+        "repos_url": "https://api.github.com/users/chaelivieira/repos",
+        "events_url": "https://api.github.com/users/chaelivieira/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/chaelivieira/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "chaelivieira",
+        "id": 32397817,
+        "node_id": "MDQ6VXNlcjMyMzk3ODE3",
+        "avatar_url": "https://avatars.githubusercontent.com/u/32397817?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/chaelivieira",
+        "html_url": "https://github.com/chaelivieira",
+        "followers_url": "https://api.github.com/users/chaelivieira/followers",
+        "following_url": "https://api.github.com/users/chaelivieira/following{/other_user}",
+        "gists_url": "https://api.github.com/users/chaelivieira/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/chaelivieira/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/chaelivieira/subscriptions",
+        "organizations_url": "https://api.github.com/users/chaelivieira/orgs",
+        "repos_url": "https://api.github.com/users/chaelivieira/repos",
+        "events_url": "https://api.github.com/users/chaelivieira/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/chaelivieira/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "bb45d2aadbb98fac1f4ffa642595ed5b05abc77b",
+          "url": "https://api.github.com/repos/chaelivieira/SSW567HW2a/commits/bb45d2aadbb98fac1f4ffa642595ed5b05abc77b",
+          "html_url": "https://github.com/chaelivieira/SSW567HW2a/commit/bb45d2aadbb98fac1f4ffa642595ed5b05abc77b"
+        }
+      ]
+    },
+    {
+      "sha": "c0a84959a86da24e7dd1fa89bdc1b045a26677d2",
+      "node_id": "MDY6Q29tbWl0MzM5NTI4MDc5OmMwYTg0OTU5YTg2ZGEyNGU3ZGQxZmE4OWJkYzFiMDQ1YTI2Njc3ZDI=",
+      "commit": {
+        "author": {
+          "name": "chaelivieira",
+          "email": "32397817+chaelivieira@users.noreply.github.com",
+          "date": "2021-02-16T22:53:50Z"
+        },
+        "committer": {
+          "name": "GitHub",
+          "email": "noreply@github.com",
+          "date": "2021-02-16T22:53:50Z"
+        },
+        "message": "Update README.md",
+        "tree": {
+          "sha": "f2917e6e97e0306522de51fcadac0c18c9e251f6",
+          "url": "https://api.github.com/repos/chaelivieira/SSW567HW2a/git/trees/f2917e6e97e0306522de51fcadac0c18c9e251f6"
+        },
+        "url": "https://api.github.com/repos/chaelivieira/SSW567HW2a/git/commits/c0a84959a86da24e7dd1fa89bdc1b045a26677d2",
+        "comment_count": 0,
+        "verification": {
+          "verified": true,
+          "reason": "valid",
+          "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJgLEz+CRBK7hj4Ov3rIwAAdHIIAD17p1OJ3prqvd5xUqHOcOeU\nkSyeL8JFwmkJ1Eak8GNx8OXpNqn9dT6qnd0+b813RhpkBkSdDWuZuSmqfPvELg6+\nLc00b44LG97DC1wkHx3G5d4WUYn9c6Kv+NTZl448LBTo8QRWarxO4gYnGL0uhIPj\nt5Lvrl+AXgp/IEL+GZes6l2NU3C8JpxveHZVW7co/q55azeP8jl1UOTXXOH5wMz8\nsTafGW3e5sLX2OITAf0kT6u98aBB4ZFPbqrmvPjoj2bOqGWkPGi4V19tmY+9GX55\nEHOA3GTakWynHZL/NTupH072MZ6nlEqZYaxHrk6cXisK3PtyH2ZLydrwUMHbgJk=\n=PSz/\n-----END PGP SIGNATURE-----\n",
+          "payload": "tree f2917e6e97e0306522de51fcadac0c18c9e251f6\nparent 834f75f12723481294fe23e71ac2f0008b1fe64b\nauthor chaelivieira <32397817+chaelivieira@users.noreply.github.com> 1613516030 -0500\ncommitter GitHub <noreply@github.com> 1613516030 -0500\n\nUpdate README.md"
+        }
+      },
+      "url": "https://api.github.com/repos/chaelivieira/SSW567HW2a/commits/c0a84959a86da24e7dd1fa89bdc1b045a26677d2",
+      "html_url": "https://github.com/chaelivieira/SSW567HW2a/commit/c0a84959a86da24e7dd1fa89bdc1b045a26677d2",
+      "comments_url": "https://api.github.com/repos/chaelivieira/SSW567HW2a/commits/c0a84959a86da24e7dd1fa89bdc1b045a26677d2/comments",
+      "author": {
+        "login": "chaelivieira",
+        "id": 32397817,
+        "node_id": "MDQ6VXNlcjMyMzk3ODE3",
+        "avatar_url": "https://avatars.githubusercontent.com/u/32397817?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/chaelivieira",
+        "html_url": "https://github.com/chaelivieira",
+        "followers_url": "https://api.github.com/users/chaelivieira/followers",
+        "following_url": "https://api.github.com/users/chaelivieira/following{/other_user}",
+        "gists_url": "https://api.github.com/users/chaelivieira/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/chaelivieira/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/chaelivieira/subscriptions",
+        "organizations_url": "https://api.github.com/users/chaelivieira/orgs",
+        "repos_url": "https://api.github.com/users/chaelivieira/repos",
+        "events_url": "https://api.github.com/users/chaelivieira/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/chaelivieira/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "web-flow",
+        "id": 19864447,
+        "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+        "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/web-flow",
+        "html_url": "https://github.com/web-flow",
+        "followers_url": "https://api.github.com/users/web-flow/followers",
+        "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+        "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+        "organizations_url": "https://api.github.com/users/web-flow/orgs",
+        "repos_url": "https://api.github.com/users/web-flow/repos",
+        "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/web-flow/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "834f75f12723481294fe23e71ac2f0008b1fe64b",
+          "url": "https://api.github.com/repos/chaelivieira/SSW567HW2a/commits/834f75f12723481294fe23e71ac2f0008b1fe64b",
+          "html_url": "https://github.com/chaelivieira/SSW567HW2a/commit/834f75f12723481294fe23e71ac2f0008b1fe64b"
+        }
+      ]
+    },
+    {
+      "sha": "834f75f12723481294fe23e71ac2f0008b1fe64b",
+      "node_id": "MDY6Q29tbWl0MzM5NTI4MDc5OjgzNGY3NWYxMjcyMzQ4MTI5NGZlMjNlNzFhYzJmMDAwOGIxZmU2NGI=",
+      "commit": {
+        "author": {
+          "name": "chaelivieira",
+          "email": "32397817+chaelivieira@users.noreply.github.com",
+          "date": "2021-02-16T22:51:53Z"
+        },
+        "committer": {
+          "name": "GitHub",
+          "email": "noreply@github.com",
+          "date": "2021-02-16T22:51:53Z"
+        },
+        "message": "Update README.md",
+        "tree": {
+          "sha": "32e1781965067a70adb17fbe456b29dbc2e271f0",
+          "url": "https://api.github.com/repos/chaelivieira/SSW567HW2a/git/trees/32e1781965067a70adb17fbe456b29dbc2e271f0"
+        },
+        "url": "https://api.github.com/repos/chaelivieira/SSW567HW2a/git/commits/834f75f12723481294fe23e71ac2f0008b1fe64b",
+        "comment_count": 0,
+        "verification": {
+          "verified": true,
+          "reason": "valid",
+          "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJgLEyJCRBK7hj4Ov3rIwAAdHIIAHOfW9RCDHYAPJsmbL+2NYp8\n/q3F7kh8Hfnx8C0ftmaTnnpxmjdvegWtVWZVruJGRAYig40NSYASw7h7Lv+OyC00\nw3U6Mty+vi3LRPmp9OMPw3u4h6eRTIrS9P62Re/bjW8oueJ25pOthILWuCC0WZbE\nLehdOkIP0DHBV0j8mh0ccd2pw5bcpWGaFDOHto4tBjNcjEGDzzmn6qDd4hkGLuB/\nBDp+uS5Z1YlHs47xjyY6J1aAW+f0PUmkncy7+BWYkFfYsOE0O7n1bHegyn8tGRhV\n+fAWjY9bvnPdtbujatiUEgSJCAcxrxw7wrCZcXKbo47gO6PUpWyKywZlJ5qGxBo=\n=VihJ\n-----END PGP SIGNATURE-----\n",
+          "payload": "tree 32e1781965067a70adb17fbe456b29dbc2e271f0\nparent bb45d2aadbb98fac1f4ffa642595ed5b05abc77b\nauthor chaelivieira <32397817+chaelivieira@users.noreply.github.com> 1613515913 -0500\ncommitter GitHub <noreply@github.com> 1613515913 -0500\n\nUpdate README.md"
+        }
+      },
+      "url": "https://api.github.com/repos/chaelivieira/SSW567HW2a/commits/834f75f12723481294fe23e71ac2f0008b1fe64b",
+      "html_url": "https://github.com/chaelivieira/SSW567HW2a/commit/834f75f12723481294fe23e71ac2f0008b1fe64b",
+      "comments_url": "https://api.github.com/repos/chaelivieira/SSW567HW2a/commits/834f75f12723481294fe23e71ac2f0008b1fe64b/comments",
+      "author": {
+        "login": "chaelivieira",
+        "id": 32397817,
+        "node_id": "MDQ6VXNlcjMyMzk3ODE3",
+        "avatar_url": "https://avatars.githubusercontent.com/u/32397817?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/chaelivieira",
+        "html_url": "https://github.com/chaelivieira",
+        "followers_url": "https://api.github.com/users/chaelivieira/followers",
+        "following_url": "https://api.github.com/users/chaelivieira/following{/other_user}",
+        "gists_url": "https://api.github.com/users/chaelivieira/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/chaelivieira/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/chaelivieira/subscriptions",
+        "organizations_url": "https://api.github.com/users/chaelivieira/orgs",
+        "repos_url": "https://api.github.com/users/chaelivieira/repos",
+        "events_url": "https://api.github.com/users/chaelivieira/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/chaelivieira/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "web-flow",
+        "id": 19864447,
+        "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+        "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/web-flow",
+        "html_url": "https://github.com/web-flow",
+        "followers_url": "https://api.github.com/users/web-flow/followers",
+        "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+        "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+        "organizations_url": "https://api.github.com/users/web-flow/orgs",
+        "repos_url": "https://api.github.com/users/web-flow/repos",
+        "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/web-flow/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "bb45d2aadbb98fac1f4ffa642595ed5b05abc77b",
+          "url": "https://api.github.com/repos/chaelivieira/SSW567HW2a/commits/bb45d2aadbb98fac1f4ffa642595ed5b05abc77b",
+          "html_url": "https://github.com/chaelivieira/SSW567HW2a/commit/bb45d2aadbb98fac1f4ffa642595ed5b05abc77b"
+        }
+      ]
+    },
+    {
+      "sha": "bb45d2aadbb98fac1f4ffa642595ed5b05abc77b",
+      "node_id": "MDY6Q29tbWl0MzM5NTI4MDc5OmJiNDVkMmFhZGJiOThmYWMxZjRmZmE2NDI1OTVlZDViMDVhYmM3N2I=",
+      "commit": {
+        "author": {
+          "name": "Chaeli Vieira",
+          "email": "cvieira@stevens.edu",
+          "date": "2021-02-16T22:50:06Z"
+        },
+        "committer": {
+          "name": "Chaeli Vieira",
+          "email": "cvieira@stevens.edu",
+          "date": "2021-02-16T22:50:06Z"
+        },
+        "message": "added travis.yml",
+        "tree": {
+          "sha": "27e88e295ebdf8c4141c54e5329b6a4621a1956b",
+          "url": "https://api.github.com/repos/chaelivieira/SSW567HW2a/git/trees/27e88e295ebdf8c4141c54e5329b6a4621a1956b"
+        },
+        "url": "https://api.github.com/repos/chaelivieira/SSW567HW2a/git/commits/bb45d2aadbb98fac1f4ffa642595ed5b05abc77b",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null
+        }
+      },
+      "url": "https://api.github.com/repos/chaelivieira/SSW567HW2a/commits/bb45d2aadbb98fac1f4ffa642595ed5b05abc77b",
+      "html_url": "https://github.com/chaelivieira/SSW567HW2a/commit/bb45d2aadbb98fac1f4ffa642595ed5b05abc77b",
+      "comments_url": "https://api.github.com/repos/chaelivieira/SSW567HW2a/commits/bb45d2aadbb98fac1f4ffa642595ed5b05abc77b/comments",
+      "author": {
+        "login": "chaelivieira",
+        "id": 32397817,
+        "node_id": "MDQ6VXNlcjMyMzk3ODE3",
+        "avatar_url": "https://avatars.githubusercontent.com/u/32397817?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/chaelivieira",
+        "html_url": "https://github.com/chaelivieira",
+        "followers_url": "https://api.github.com/users/chaelivieira/followers",
+        "following_url": "https://api.github.com/users/chaelivieira/following{/other_user}",
+        "gists_url": "https://api.github.com/users/chaelivieira/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/chaelivieira/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/chaelivieira/subscriptions",
+        "organizations_url": "https://api.github.com/users/chaelivieira/orgs",
+        "repos_url": "https://api.github.com/users/chaelivieira/repos",
+        "events_url": "https://api.github.com/users/chaelivieira/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/chaelivieira/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "chaelivieira",
+        "id": 32397817,
+        "node_id": "MDQ6VXNlcjMyMzk3ODE3",
+        "avatar_url": "https://avatars.githubusercontent.com/u/32397817?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/chaelivieira",
+        "html_url": "https://github.com/chaelivieira",
+        "followers_url": "https://api.github.com/users/chaelivieira/followers",
+        "following_url": "https://api.github.com/users/chaelivieira/following{/other_user}",
+        "gists_url": "https://api.github.com/users/chaelivieira/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/chaelivieira/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/chaelivieira/subscriptions",
+        "organizations_url": "https://api.github.com/users/chaelivieira/orgs",
+        "repos_url": "https://api.github.com/users/chaelivieira/repos",
+        "events_url": "https://api.github.com/users/chaelivieira/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/chaelivieira/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "ec9111c81598cc3aecbde0deffa9537ede1d1cb5",
+          "url": "https://api.github.com/repos/chaelivieira/SSW567HW2a/commits/ec9111c81598cc3aecbde0deffa9537ede1d1cb5",
+          "html_url": "https://github.com/chaelivieira/SSW567HW2a/commit/ec9111c81598cc3aecbde0deffa9537ede1d1cb5"
+        }
+      ]
+    },
+    {
+      "sha": "ec9111c81598cc3aecbde0deffa9537ede1d1cb5",
+      "node_id": "MDY6Q29tbWl0MzM5NTI4MDc5OmVjOTExMWM4MTU5OGNjM2FlY2JkZTBkZWZmYTk1MzdlZGUxZDFjYjU=",
+      "commit": {
+        "author": {
+          "name": "Chaeli Vieira",
+          "email": "cvieira@stevens.edu",
+          "date": "2021-02-16T22:33:24Z"
+        },
+        "committer": {
+          "name": "Chaeli Vieira",
+          "email": "cvieira@stevens.edu",
+          "date": "2021-02-16T22:33:24Z"
+        },
+        "message": "results screendumps",
+        "tree": {
+          "sha": "9529e205101d27042f70b94e76999dfa5a6fd7c2",
+          "url": "https://api.github.com/repos/chaelivieira/SSW567HW2a/git/trees/9529e205101d27042f70b94e76999dfa5a6fd7c2"
+        },
+        "url": "https://api.github.com/repos/chaelivieira/SSW567HW2a/git/commits/ec9111c81598cc3aecbde0deffa9537ede1d1cb5",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null
+        }
+      },
+      "url": "https://api.github.com/repos/chaelivieira/SSW567HW2a/commits/ec9111c81598cc3aecbde0deffa9537ede1d1cb5",
+      "html_url": "https://github.com/chaelivieira/SSW567HW2a/commit/ec9111c81598cc3aecbde0deffa9537ede1d1cb5",
+      "comments_url": "https://api.github.com/repos/chaelivieira/SSW567HW2a/commits/ec9111c81598cc3aecbde0deffa9537ede1d1cb5/comments",
+      "author": {
+        "login": "chaelivieira",
+        "id": 32397817,
+        "node_id": "MDQ6VXNlcjMyMzk3ODE3",
+        "avatar_url": "https://avatars.githubusercontent.com/u/32397817?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/chaelivieira",
+        "html_url": "https://github.com/chaelivieira",
+        "followers_url": "https://api.github.com/users/chaelivieira/followers",
+        "following_url": "https://api.github.com/users/chaelivieira/following{/other_user}",
+        "gists_url": "https://api.github.com/users/chaelivieira/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/chaelivieira/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/chaelivieira/subscriptions",
+        "organizations_url": "https://api.github.com/users/chaelivieira/orgs",
+        "repos_url": "https://api.github.com/users/chaelivieira/repos",
+        "events_url": "https://api.github.com/users/chaelivieira/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/chaelivieira/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "chaelivieira",
+        "id": 32397817,
+        "node_id": "MDQ6VXNlcjMyMzk3ODE3",
+        "avatar_url": "https://avatars.githubusercontent.com/u/32397817?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/chaelivieira",
+        "html_url": "https://github.com/chaelivieira",
+        "followers_url": "https://api.github.com/users/chaelivieira/followers",
+        "following_url": "https://api.github.com/users/chaelivieira/following{/other_user}",
+        "gists_url": "https://api.github.com/users/chaelivieira/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/chaelivieira/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/chaelivieira/subscriptions",
+        "organizations_url": "https://api.github.com/users/chaelivieira/orgs",
+        "repos_url": "https://api.github.com/users/chaelivieira/repos",
+        "events_url": "https://api.github.com/users/chaelivieira/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/chaelivieira/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "9fc371e0bb6764cbf260a1955cd9d3af1b983251",
+          "url": "https://api.github.com/repos/chaelivieira/SSW567HW2a/commits/9fc371e0bb6764cbf260a1955cd9d3af1b983251",
+          "html_url": "https://github.com/chaelivieira/SSW567HW2a/commit/9fc371e0bb6764cbf260a1955cd9d3af1b983251"
+        }
+      ]
+    },
+    {
+      "sha": "9fc371e0bb6764cbf260a1955cd9d3af1b983251",
+      "node_id": "MDY6Q29tbWl0MzM5NTI4MDc5OjlmYzM3MWUwYmI2NzY0Y2JmMjYwYTE5NTVjZDlkM2FmMWI5ODMyNTE=",
+      "commit": {
+        "author": {
+          "name": "Chaeli Vieira",
+          "email": "cvieira@stevens.edu",
+          "date": "2021-02-16T22:17:55Z"
+        },
+        "committer": {
+          "name": "Chaeli Vieira",
+          "email": "cvieira@stevens.edu",
+          "date": "2021-02-16T22:17:55Z"
+        },
+        "message": "fixes to Triangle.py",
+        "tree": {
+          "sha": "b5e27d236d1159f665154afd8026742c6a6d7dc4",
+          "url": "https://api.github.com/repos/chaelivieira/SSW567HW2a/git/trees/b5e27d236d1159f665154afd8026742c6a6d7dc4"
+        },
+        "url": "https://api.github.com/repos/chaelivieira/SSW567HW2a/git/commits/9fc371e0bb6764cbf260a1955cd9d3af1b983251",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null
+        }
+      },
+      "url": "https://api.github.com/repos/chaelivieira/SSW567HW2a/commits/9fc371e0bb6764cbf260a1955cd9d3af1b983251",
+      "html_url": "https://github.com/chaelivieira/SSW567HW2a/commit/9fc371e0bb6764cbf260a1955cd9d3af1b983251",
+      "comments_url": "https://api.github.com/repos/chaelivieira/SSW567HW2a/commits/9fc371e0bb6764cbf260a1955cd9d3af1b983251/comments",
+      "author": {
+        "login": "chaelivieira",
+        "id": 32397817,
+        "node_id": "MDQ6VXNlcjMyMzk3ODE3",
+        "avatar_url": "https://avatars.githubusercontent.com/u/32397817?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/chaelivieira",
+        "html_url": "https://github.com/chaelivieira",
+        "followers_url": "https://api.github.com/users/chaelivieira/followers",
+        "following_url": "https://api.github.com/users/chaelivieira/following{/other_user}",
+        "gists_url": "https://api.github.com/users/chaelivieira/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/chaelivieira/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/chaelivieira/subscriptions",
+        "organizations_url": "https://api.github.com/users/chaelivieira/orgs",
+        "repos_url": "https://api.github.com/users/chaelivieira/repos",
+        "events_url": "https://api.github.com/users/chaelivieira/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/chaelivieira/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "chaelivieira",
+        "id": 32397817,
+        "node_id": "MDQ6VXNlcjMyMzk3ODE3",
+        "avatar_url": "https://avatars.githubusercontent.com/u/32397817?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/chaelivieira",
+        "html_url": "https://github.com/chaelivieira",
+        "followers_url": "https://api.github.com/users/chaelivieira/followers",
+        "following_url": "https://api.github.com/users/chaelivieira/following{/other_user}",
+        "gists_url": "https://api.github.com/users/chaelivieira/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/chaelivieira/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/chaelivieira/subscriptions",
+        "organizations_url": "https://api.github.com/users/chaelivieira/orgs",
+        "repos_url": "https://api.github.com/users/chaelivieira/repos",
+        "events_url": "https://api.github.com/users/chaelivieira/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/chaelivieira/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "cf876c07cb04c387734717d629ebb3bc02c915d9",
+          "url": "https://api.github.com/repos/chaelivieira/SSW567HW2a/commits/cf876c07cb04c387734717d629ebb3bc02c915d9",
+          "html_url": "https://github.com/chaelivieira/SSW567HW2a/commit/cf876c07cb04c387734717d629ebb3bc02c915d9"
+        }
+      ]
+    },
+    {
+      "sha": "cf876c07cb04c387734717d629ebb3bc02c915d9",
+      "node_id": "MDY6Q29tbWl0MzM5NTI4MDc5OmNmODc2YzA3Y2IwNGMzODc3MzQ3MTdkNjI5ZWJiM2JjMDJjOTE1ZDk=",
+      "commit": {
+        "author": {
+          "name": "Chaeli Vieira",
+          "email": "cvieira@stevens.edu",
+          "date": "2021-02-16T21:54:27Z"
+        },
+        "committer": {
+          "name": "Chaeli Vieira",
+          "email": "cvieira@stevens.edu",
+          "date": "2021-02-16T21:54:27Z"
+        },
+        "message": "enhancements to the test cases",
+        "tree": {
+          "sha": "b1666502548e216ac8f0fb486e1837af0c268c3e",
+          "url": "https://api.github.com/repos/chaelivieira/SSW567HW2a/git/trees/b1666502548e216ac8f0fb486e1837af0c268c3e"
+        },
+        "url": "https://api.github.com/repos/chaelivieira/SSW567HW2a/git/commits/cf876c07cb04c387734717d629ebb3bc02c915d9",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null
+        }
+      },
+      "url": "https://api.github.com/repos/chaelivieira/SSW567HW2a/commits/cf876c07cb04c387734717d629ebb3bc02c915d9",
+      "html_url": "https://github.com/chaelivieira/SSW567HW2a/commit/cf876c07cb04c387734717d629ebb3bc02c915d9",
+      "comments_url": "https://api.github.com/repos/chaelivieira/SSW567HW2a/commits/cf876c07cb04c387734717d629ebb3bc02c915d9/comments",
+      "author": {
+        "login": "chaelivieira",
+        "id": 32397817,
+        "node_id": "MDQ6VXNlcjMyMzk3ODE3",
+        "avatar_url": "https://avatars.githubusercontent.com/u/32397817?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/chaelivieira",
+        "html_url": "https://github.com/chaelivieira",
+        "followers_url": "https://api.github.com/users/chaelivieira/followers",
+        "following_url": "https://api.github.com/users/chaelivieira/following{/other_user}",
+        "gists_url": "https://api.github.com/users/chaelivieira/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/chaelivieira/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/chaelivieira/subscriptions",
+        "organizations_url": "https://api.github.com/users/chaelivieira/orgs",
+        "repos_url": "https://api.github.com/users/chaelivieira/repos",
+        "events_url": "https://api.github.com/users/chaelivieira/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/chaelivieira/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "chaelivieira",
+        "id": 32397817,
+        "node_id": "MDQ6VXNlcjMyMzk3ODE3",
+        "avatar_url": "https://avatars.githubusercontent.com/u/32397817?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/chaelivieira",
+        "html_url": "https://github.com/chaelivieira",
+        "followers_url": "https://api.github.com/users/chaelivieira/followers",
+        "following_url": "https://api.github.com/users/chaelivieira/following{/other_user}",
+        "gists_url": "https://api.github.com/users/chaelivieira/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/chaelivieira/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/chaelivieira/subscriptions",
+        "organizations_url": "https://api.github.com/users/chaelivieira/orgs",
+        "repos_url": "https://api.github.com/users/chaelivieira/repos",
+        "events_url": "https://api.github.com/users/chaelivieira/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/chaelivieira/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "1753fb08fed17e534e28c6d0402fc04c0df9b855",
+          "url": "https://api.github.com/repos/chaelivieira/SSW567HW2a/commits/1753fb08fed17e534e28c6d0402fc04c0df9b855",
+          "html_url": "https://github.com/chaelivieira/SSW567HW2a/commit/1753fb08fed17e534e28c6d0402fc04c0df9b855"
+        }
+      ]
+    },
+    {
+      "sha": "1753fb08fed17e534e28c6d0402fc04c0df9b855",
+      "node_id": "MDY6Q29tbWl0MzM5NTI4MDc5OjE3NTNmYjA4ZmVkMTdlNTM0ZTI4YzZkMDQwMmZjMDRjMGRmOWI4NTU=",
+      "commit": {
+        "author": {
+          "name": "Chaeli Vieira",
+          "email": "cvieira@stevens.edu",
+          "date": "2021-02-16T20:54:01Z"
+        },
+        "committer": {
+          "name": "Chaeli Vieira",
+          "email": "cvieira@stevens.edu",
+          "date": "2021-02-16T20:54:01Z"
+        },
+        "message": "add triangle code",
+        "tree": {
+          "sha": "4dd12ffc0c6849fa2735a55381774ff341691a5a",
+          "url": "https://api.github.com/repos/chaelivieira/SSW567HW2a/git/trees/4dd12ffc0c6849fa2735a55381774ff341691a5a"
+        },
+        "url": "https://api.github.com/repos/chaelivieira/SSW567HW2a/git/commits/1753fb08fed17e534e28c6d0402fc04c0df9b855",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null
+        }
+      },
+      "url": "https://api.github.com/repos/chaelivieira/SSW567HW2a/commits/1753fb08fed17e534e28c6d0402fc04c0df9b855",
+      "html_url": "https://github.com/chaelivieira/SSW567HW2a/commit/1753fb08fed17e534e28c6d0402fc04c0df9b855",
+      "comments_url": "https://api.github.com/repos/chaelivieira/SSW567HW2a/commits/1753fb08fed17e534e28c6d0402fc04c0df9b855/comments",
+      "author": {
+        "login": "chaelivieira",
+        "id": 32397817,
+        "node_id": "MDQ6VXNlcjMyMzk3ODE3",
+        "avatar_url": "https://avatars.githubusercontent.com/u/32397817?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/chaelivieira",
+        "html_url": "https://github.com/chaelivieira",
+        "followers_url": "https://api.github.com/users/chaelivieira/followers",
+        "following_url": "https://api.github.com/users/chaelivieira/following{/other_user}",
+        "gists_url": "https://api.github.com/users/chaelivieira/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/chaelivieira/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/chaelivieira/subscriptions",
+        "organizations_url": "https://api.github.com/users/chaelivieira/orgs",
+        "repos_url": "https://api.github.com/users/chaelivieira/repos",
+        "events_url": "https://api.github.com/users/chaelivieira/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/chaelivieira/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "chaelivieira",
+        "id": 32397817,
+        "node_id": "MDQ6VXNlcjMyMzk3ODE3",
+        "avatar_url": "https://avatars.githubusercontent.com/u/32397817?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/chaelivieira",
+        "html_url": "https://github.com/chaelivieira",
+        "followers_url": "https://api.github.com/users/chaelivieira/followers",
+        "following_url": "https://api.github.com/users/chaelivieira/following{/other_user}",
+        "gists_url": "https://api.github.com/users/chaelivieira/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/chaelivieira/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/chaelivieira/subscriptions",
+        "organizations_url": "https://api.github.com/users/chaelivieira/orgs",
+        "repos_url": "https://api.github.com/users/chaelivieira/repos",
+        "events_url": "https://api.github.com/users/chaelivieira/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/chaelivieira/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "83757393b6e7ca1ee8c41a2b37f9f9ae1dc288b5",
+          "url": "https://api.github.com/repos/chaelivieira/SSW567HW2a/commits/83757393b6e7ca1ee8c41a2b37f9f9ae1dc288b5",
+          "html_url": "https://github.com/chaelivieira/SSW567HW2a/commit/83757393b6e7ca1ee8c41a2b37f9f9ae1dc288b5"
+        }
+      ]
+    },
+    {
+      "sha": "83757393b6e7ca1ee8c41a2b37f9f9ae1dc288b5",
+      "node_id": "MDY6Q29tbWl0MzM5NTI4MDc5OjgzNzU3MzkzYjZlN2NhMWVlOGM0MWEyYjM3ZjlmOWFlMWRjMjg4YjU=",
+      "commit": {
+        "author": {
+          "name": "chaelivieira",
+          "email": "32397817+chaelivieira@users.noreply.github.com",
+          "date": "2021-02-16T20:52:39Z"
+        },
+        "committer": {
+          "name": "GitHub",
+          "email": "noreply@github.com",
+          "date": "2021-02-16T20:52:39Z"
+        },
+        "message": "Initial commit",
+        "tree": {
+          "sha": "bc3ecc29c75ea1795ac3bd6551acd1c954e5f7df",
+          "url": "https://api.github.com/repos/chaelivieira/SSW567HW2a/git/trees/bc3ecc29c75ea1795ac3bd6551acd1c954e5f7df"
+        },
+        "url": "https://api.github.com/repos/chaelivieira/SSW567HW2a/git/commits/83757393b6e7ca1ee8c41a2b37f9f9ae1dc288b5",
+        "comment_count": 0,
+        "verification": {
+          "verified": true,
+          "reason": "valid",
+          "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJgLDCXCRBK7hj4Ov3rIwAAdHIIAAGiQqjo6zlOYWlwr77Fb/an\nSflJmob4/JfRfzAv9O9TerQXhiqbeRX3QGejG1qPir7IyvqYkcRJnlzI6rzMYlWK\nyvEsoUjbL0m9UrlYxj49dADwmw+I+cOrX6vyYDrPawx3l/g9/pBkBjFjyPV0Z44e\nMRbekxHGqUct3qxwMVL9Mvqyst/dkIjHGX7rCDJOXXDsn3pmTcyyVLWlWYPj1z8e\nF+Ji0vgpjWWQ4CBebEnmaLEjW6e76KVhHYfgk6+kQEJZHAAs4x3aL5zCVh36KFOb\nZKNtlNfaI+L9NqQRceiCrC38elL4qvvxiIUWS8A/mTDBTxSwRXiroFW8FYPMSm8=\n=Do3l\n-----END PGP SIGNATURE-----\n",
+          "payload": "tree bc3ecc29c75ea1795ac3bd6551acd1c954e5f7df\nauthor chaelivieira <32397817+chaelivieira@users.noreply.github.com> 1613508759 -0500\ncommitter GitHub <noreply@github.com> 1613508759 -0500\n\nInitial commit"
+        }
+      },
+      "url": "https://api.github.com/repos/chaelivieira/SSW567HW2a/commits/83757393b6e7ca1ee8c41a2b37f9f9ae1dc288b5",
+      "html_url": "https://github.com/chaelivieira/SSW567HW2a/commit/83757393b6e7ca1ee8c41a2b37f9f9ae1dc288b5",
+      "comments_url": "https://api.github.com/repos/chaelivieira/SSW567HW2a/commits/83757393b6e7ca1ee8c41a2b37f9f9ae1dc288b5/comments",
+      "author": {
+        "login": "chaelivieira",
+        "id": 32397817,
+        "node_id": "MDQ6VXNlcjMyMzk3ODE3",
+        "avatar_url": "https://avatars.githubusercontent.com/u/32397817?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/chaelivieira",
+        "html_url": "https://github.com/chaelivieira",
+        "followers_url": "https://api.github.com/users/chaelivieira/followers",
+        "following_url": "https://api.github.com/users/chaelivieira/following{/other_user}",
+        "gists_url": "https://api.github.com/users/chaelivieira/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/chaelivieira/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/chaelivieira/subscriptions",
+        "organizations_url": "https://api.github.com/users/chaelivieira/orgs",
+        "repos_url": "https://api.github.com/users/chaelivieira/repos",
+        "events_url": "https://api.github.com/users/chaelivieira/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/chaelivieira/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "web-flow",
+        "id": 19864447,
+        "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+        "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/web-flow",
+        "html_url": "https://github.com/web-flow",
+        "followers_url": "https://api.github.com/users/web-flow/followers",
+        "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+        "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+        "organizations_url": "https://api.github.com/users/web-flow/orgs",
+        "repos_url": "https://api.github.com/users/web-flow/repos",
+        "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/web-flow/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+  
+      ]
+    }
+  ]
